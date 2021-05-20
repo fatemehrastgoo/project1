@@ -1,0 +1,77 @@
+body{
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Kaushan Script';
+   
+    
+}
+
+h1{
+    width: 20%;
+    margin: 0 auto;
+    font-family: 'Kaushan Script';
+    font-size: 50px;
+    color: #f8b500;
+    
+    
+}
+
+h2{
+    width: 15%;
+    margin: 0 auto;
+    font-family: 'Kaushan Script';
+    font-size: 30px;
+    color: #f8b500;
+    font-weight: bold;
+
+}
+
+h3{
+    width: 20%;
+    margin: 0 auto;
+    font-family: 'Delius';
+    font-size: 15px;
+      
+}
+
+.top-container{
+    background-color: #393e46;
+    padding: 50px;
+
+}
+
+.middle-container{
+    background-color: #dddddd;
+    padding-bottom: 10px;
+}
+
+.sunflower{
+    width: 250px;
+}
+
+.center-flower{
+    width: 650px;
+}
+
+.profile-pic{ 
+    border-block-color: 10px #5c636e;
+        width: 200px;
+    margin-top: 10px;
+}
+
+.skills{
+    background-color: #dddddd;
+    padding-bottom: 10px;
+}
+
+.contact-me{
+    background-color: #dddddd;
+    padding-bottom: 10px;
+        
+}
+
+.contact-me{
+    margin: 0 auto;
+    font-size: 10px;
+}
+
