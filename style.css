@@ -67,11 +67,39 @@ h3{
 .contact-me{
     background-color: #dddddd;
     padding-bottom: 10px;
+    margin: 0 auto;
+    font-size: 10px;
         
 }
 
-.contact-me{
-    margin: 0 auto;
-    font-size: 10px;
+hr {
+    width: 10px;
+    border: 5px dotted #393e46;
+    border-bottom: none;
 }
 
+.photo-1{
+    width: 200px;
+    float: left;
+    margin-right: 15px;
+}
+
+.photo-2{
+    width: 200px;
+    float: right;
+    margin-left: 15px;
+}
+
+.skill-row{
+    text-align: left;
+    margin: 100px;
+}
+
+
+p{
+    font-size: 15px;
+}
+
+.photo--{
+   width: 70px;
+}
